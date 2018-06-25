@@ -129,15 +129,15 @@ window.addEventListener('load', function() {
 
 # 表格
 ## 单元格和表头
-name | age
----- | ---
-LearnShare | 12
-Mike |  32
-
-|    name    | age |
+| name       | age |
 | ---------- | --- |
-| LearnShare |  12 |
-| Mike       |  32 |
+| LearnShare | 12  |
+| Mike       | 32  |
+
+| name       | age |
+| ---------- | --- |
+| LearnShare | 12  |
+| Mike       | 32  |
 
 ## 对齐
 | left | center | right |
@@ -146,10 +146,10 @@ Mike |  32
 | a    | b      | c     |
 
 ## 插入其他内容
-|     name     |  age  |             blog                |
+| name         | age   | blog                            |
 | ------------ | :---: | ------------------------------: |
-| _LearnShare_ |   12  | [LearnShare](http://xianbai.me) |
-| __Mike__     |   32  | [Mike](http://mike.me)          |
+| _LearnShare_ | 12    | [LearnShare](http://xianbai.me) |
+| __Mike__     | 32    | [Mike](http://mike.me)          |
 
 # Task List
 - [ ] Eat
@@ -158,3 +158,5 @@ Mike |  32
   - [x] CSS
   - [x] JavaScript
 - [ ] Sleep
+
+$$ \frac{d}{dx}e^{ax}=ae^{ax}\quad \sum_{i=1}^{n}{(X_i - \overline{X})^2} $$
